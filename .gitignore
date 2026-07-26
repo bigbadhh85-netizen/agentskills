@@ -1,9 +1,10 @@
-# macOS
-.DS_Store
+# generated files
+generated/
 
-# IDEs
-.idea/
-.vscode/
+# dependencies
+Dependenciesoml
 
-# Dependencies
-node_modules/
+# config files
+Config.toml
+ config files used for testing, Uncomment the following line if you want to commit the tt config files
+#!**/Config.toml
